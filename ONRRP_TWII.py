@@ -21,7 +21,7 @@ import matplotlib.pyplot as plt
 
 
 # 讀取CSV檔案，將非數字和空格替換為 NaN
-on_rrp = pd.read_csv('on_rrp.csv', parse_dates=[0], index_col=0, na_values=[' ', 'non_numeric_value'])  # parse_dates=[0] 是用來指定將 CSV 文件中的哪一列解析為日期，但不會影響 DataFrame 的索引。
+on_rrp = pd.read_csv('on_rrp.csv', parse_dates=[0], index_col=0, na_values=[' ', 'non_numeric_value'])  # parse_dates=[0] 是用來指定將 CSV 文件中的哪一列解析為日期，並將其作為DataFrame的索引，index_col=0 將解析後的日期列變成DataFrame的索引。
 twii = pd.read_csv('twii.csv', parse_dates=[0], index_col=0, na_values=[' ', 'non_numeric_value'])
 
 on_rrp['ON RRP'] = pd.to_numeric(on_rrp['ON RRP'], errors='coerce')     # pd.to_numeric 函數用於將一列的數據轉換為數字，同時 errors='coerce' 參數表示在轉換過程中遇到無法轉換的值時，將其替換為 NaN
