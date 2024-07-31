@@ -29,10 +29,12 @@ Step 3：複製（Reproduction）或選取（Selection）\
 以下列出常見的兩種選擇方法
 1. 競賽選擇(Tournament selection)\
    會從所有個體中隨機選出兩個，接著比較何者的解為佳，最後選擇較佳者進行交配。
+   
 ![螢幕擷取畫面 2024-07-31 201345](https://github.com/user-attachments/assets/636ee194-7315-4851-b02c-56a33074bdb0)
 
 2. 輪盤選擇(Roulette Wheel Selection)\
    為一種回放式隨機取樣法，將一輪盤分成N個部分，根據fitness決定其盤面面積大小，fitness越大面積就越大，故在隨機取樣中被選到的機會就會越大。
+   
 ![螢幕擷取畫面 2024-07-31 201454](https://github.com/user-attachments/assets/a0186059-bd5f-47bc-8823-0fabcb6b2a34)
 
 Step 4：交配（Crossover）\
