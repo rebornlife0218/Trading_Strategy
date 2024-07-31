@@ -25,6 +25,7 @@
 Step 1：產生初始群集（Initial Population）\
 Step 2：計算適應度 （Fitness）\
 Step 3：複製（Reproduction）或選取（Selection）\
+
 以下列出常見的兩種選擇方法
 1. 競賽選擇(Tournament selection)
    
