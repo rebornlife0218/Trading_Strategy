@@ -34,7 +34,8 @@ Step 3：複製（Reproduction）或選取（Selection）\
 
 2.輪盤選擇(Roulette Wheel Selection)
 
-![image](https://github.com/user-attachments/assets/18819f08-784b-410e-bc58-d8e5e4021d01)
+![image](https://github.com/user-attachments/assets/04f6da45-dfd6-44b5-abb7-59c8b3aaca8f)
+
 
 Step 4：交配（Crossover）\
 Step 5：突變（Mutation）\
