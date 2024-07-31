@@ -27,7 +27,8 @@ Step 2：計算適應度 （Fitness）\
 Step 3：複製（Reproduction）或選取（Selection）\
 
 以下列出常見的兩種選擇方法
-1. 競賽選擇(Tournament selection)
+1. 競賽選擇(Tournament selection)\
+   競賽選擇會從所有個體中隨機選出兩個，接著比較何者的解為佳，最後選擇較佳者進行交配。
    
 ![image](https://github.com/user-attachments/assets/57752468-180d-48b8-8725-355ea6fdcfa0)
 
@@ -41,4 +42,4 @@ Step 6：若達到 iteration 次數的上限時，則停止並輸出最佳解，
 
 ***
 ### Reference
-[Python — 基因演算法(Genetic Algorithm, GA)求解最佳化問題](https://medium.com/hunter-cheng/python-%E5%9F%BA%E5%9B%A0%E6%BC%94%E7%AE%97%E6%B3%95-genetic-algorithm-ga-%E6%B1%82%E8%A7%A3%E6%9C%80%E4%BD%B3%E5%8C%96%E5%95%8F%E9%A1%8C-b7e6d635922)
+[基因遺傳演算法（GA)](https://tzuchieh0931.medium.com/ga-metaheuristic-05-cf98c543da7f)
