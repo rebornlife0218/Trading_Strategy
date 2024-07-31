@@ -29,7 +29,8 @@ Step 3：複製（Reproduction）或選取（Selection）\
 以下列出常見的兩種選擇方法
 1. 競賽選擇(Tournament selection)\
    會從所有個體中隨機選出兩個，接著比較何者的解為佳，最後選擇較佳者進行交配。
-![353688566-57752468-180d-48b8-8725-355ea6fdcfa0](https://github.com/user-attachments/assets/ca310d36-2366-4fd6-b14b-5afc2883cbad)
+![螢幕擷取畫面 2024-07-31 201345](https://github.com/user-attachments/assets/636ee194-7315-4851-b02c-56a33074bdb0)
+
 
 
 
