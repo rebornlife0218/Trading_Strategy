@@ -10,7 +10,7 @@
 1. 讀取股票代號並下載歷史數據。
 2. 根據波動度選擇每月最小波動度的股票，並構建等權重的投資組合。
 3. 回測策略，計算每日報酬和累積報酬。
-4. 計算策略和指數的關鍵績效指標，如：Sharpe Ratio、最大回撤、年化報酬率和勝率。
+4. 計算策略和指數的關鍵績效指標，如：Annual Return、Sharpe Ratio、Max Drawdown、Win Rate。
 5. 繪製策略和指數的報酬及回撤圖，以便進行比較分析。
 
 ![LowVolatility_TW_result](https://github.com/user-attachments/assets/86cedaaf-a0d7-433d-bdde-eca555b02096)
