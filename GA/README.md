@@ -6,7 +6,7 @@
 ### 基因演算法(Genetic Algorithm)
 使用基因演算法需要暸解以下名詞：
 
-1. 種群 (Population)/
+1. 種群 (Population)/ 
 可以想像成一個區域內的所有個體，數個個體集合起來就是種群
 
 2. 染色體 (Chromosome)/
