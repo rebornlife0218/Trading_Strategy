@@ -13,4 +13,5 @@
 4. 計算策略和指數的關鍵績效指標，如：Sharpe Ratio、最大回撤、年化報酬率和勝率。
 5. 繪製策略和指數的報酬及回撤圖，以便進行比較分析。
 
-![LowVolatilityEffect_TW_result](https://github.com/user-attachments/assets/d216d309-8d0f-41fe-8a30-3733ace04821)
+![LowVolatility_TW_result](https://github.com/user-attachments/assets/86cedaaf-a0d7-433d-bdde-eca555b02096)
+
