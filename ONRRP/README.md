@@ -20,7 +20,7 @@ $${\color{red}當利率的下限無金融機構來交易，表示不需要賺那
 | Interest Rate on  Reserve Balances        | IORB  | 準備金利率             | 自2021/07/29後，IOER和IORR合併(取消所有機構的準備金要求)     |
 | Overnight Reverse Repurchase              | ON RRP| 隔夜逆回購利率         | 聯準會將證券賣給金融機構，並承諾隔天買回，後來變為利率通道下限  |
 | Federal Funds Effective Rate              | EFFR  | 聯邦資金有效利率       | 無擔保拆借，透過市場交易得出                     |
-| Secured Overnight Financing Rate          | SOFR  | 擔保隔夜融資利率       | SOFR 由美國國庫券市場提供抵押，銀行會將手上的美國國債作為抵押品來向其他銀行借出現金 |
+| Secured Overnight Financing Rate          | SOFR  | 擔保隔夜融資利率       | 由美國國庫券市場提供抵押，銀行會將手上的美國國債作為抵押品來向其他銀行借出現金 |
 
 ## 利率區間下限
 1. 金融危機後，FED實施QE政策，來自銀行的存款準備金大增，使FED無法再透過公開市場操作調控準備金的供給，進而影響聯邦資金的市場利率，使「準備金需求曲線趨於平坦」，形同落入流動性陷阱。
