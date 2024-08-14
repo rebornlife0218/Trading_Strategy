@@ -18,7 +18,7 @@ $${\color{red}當利率的下限無金融機構來交易，表示不需要賺那
 | Interest Rate on Excess Reserves          | IOER  | 超額準備金利率         | 原本做為利率通道下限，但因超額準備過剩變為上限    |
 | Interest Rate on Required Reserves        | IORR  | 法定存款準備金利率     | 自2008/11/06後與IOER一致                       |
 | Interest Rate on  Reserve Balances        | IORB  | 準備金利率             | 自2021/07/29後，IOER和IORR合併(取消所有機構的準備金要求)     |
-| Overnight Reverse Repurchase              | ON RRP| 隔夜逆回購利率         | 聯準會將證券賣給金融機構，並承諾隔天買回，後來變為利率通道下限  |
+| Overnight Reverse Repurchase              | ON RRP| 隔夜逆回購利率         | FED將證券賣給金融機構，並承諾隔天買回，後來變為利率通道下限  |
 | Federal Funds Effective Rate              | EFFR  | 聯邦資金有效利率       | 無擔保拆借，透過市場交易得出                     |
 | Secured Overnight Financing Rate          | SOFR  | 擔保隔夜融資利率       | 由美國國庫券市場提供抵押，銀行會將手上的美國國債作為抵押品來向其他銀行借出現金 |
 
