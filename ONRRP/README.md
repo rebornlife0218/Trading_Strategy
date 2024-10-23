@@ -48,5 +48,5 @@ $${\color{red}當利率的下限無金融機構來交易，表示不需要賺那
 聯邦公開市場委員會（FOMC）指示交易台進行隔夜逆回購協議（ON RRP）操作，這類操作的金額只受限於系統公開市場賬戶（SOMA）中可用來做這些操作的國庫券數量。也就是說，並非所有的SOMA國庫券都能用於ON RRP操作，像是一些需要跟外國政府或國際機構進行回購協議的國庫券，或者是支持證券借貸操作的證券，還有那些即將到期的國庫券，這些都無法用於ON RRP操作。如果交易台進行的是定期逆回購協議（term RRP），那已經做了抵押的國庫券也無法再用來進行ON RRP操作。
 
 ***
-[ON RRP 資料下載](https://fred.stlouisfed.org/series/RRPONTSYD)  
-資料參考：[New York Fed](https://www.newyorkfed.org/markets/rrp_faq.html)
+資料參考：[New York Fed](https://www.newyorkfed.org/markets/rrp_faq.html)  
+[ON RRP 資料下載](https://fred.stlouisfed.org/series/RRPONTSYD) 
